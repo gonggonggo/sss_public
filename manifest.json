@@ -1,11 +1,11 @@
 {
-    "name": "simplestudysupport",
-    "short_name": "simplestudysupport",
+    "name": "七葉学習サポート",
+    "short_name": "七葉学習",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "七葉学習サポート",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
